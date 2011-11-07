@@ -17,12 +17,12 @@ A: Not at the moment. We will be looking at ways to support this in the future u
 
 __Q: How do I test my app?__
 
-A: For now we recommend choosing one of the many testing frameworks available for Node.js. Let us know if there is anything we can do to help integrate SocketStream with your framework of choice. SocketStream will have an in-built default testing framework in the future but it will be a radical departure from anything that's gone before. Look out for announcements towards the end of 2011.
+A: For now, we recommend choosing one of the many testing frameworks available for Node.js. Let us know if there is anything we can do to help integrate SocketStream with your framework of choice. SocketStream will have a built-in default testing framework in the future, but it will be a radical departure from anything that's gone before. Look out for announcements towards the end of 2011.
 
 
 __Q: Can I deploy SocketStream apps to Heroku?__
 
-A: Not at the moment as Heroku cannot correctly route websockets, but we working on something big in this area. Stay tuned.
+A: Not at the moment as Heroku cannot correctly route websockets, but we are working on something big in this area. Stay tuned.
 
 
 __Q: How do I make models?__
